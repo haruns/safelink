@@ -24,7 +24,20 @@ var xxx=null;
 if(x=="1"){xxx="why-is-house-considered-real-estate.html"}
 if(x=="2"){xxx="reasons-some-rent-instead-of-own.html"}
 if(x=="3"){xxx="glassell-park-real-estate-its-all-about.html"}
-if(x=="4"){xxx="how-to-nail-your-arv-before-you-buy.html"}a_to_ve[i].href="https://safe-shortlink.blogspot.com/2018/10/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="4"){xxx="how-to-nail-your-arv-before-you-buy.html"}
+if(x=="5"){xxx="tricks-you-should-play-while-dealing.html"}
+if(x=="6"){xxx="4-ways-to-wholesale-real-estate.html"}
+if(x=="7"){xxx="before-you-buy-your-first-home.html"}
+if(x=="8"){xxx="tips-on-how-to-save-money-during.html"}
+if(x=="9"){xxx="step-by-step-guide-to-design-tensile.html"}
+if(x=="10"){xxx="tips-on-choosing-ideal-cabin.html"}
+if(x=="11"){xxx="why-you-should-get-best-log-cabin.html"}
+if(x=="12"){xxx="tips-for-choosing-high-quality-log-cabin.html"}
+if(x=="13"){xxx="private-label-log-cabins-manufacturer.html"}
+if(x=="14"){xxx="the-best-pods-manufactures-for.html"}
+if(x=="15"){xxx="things-to-note-before-settling-for.html"}
+if(x=="16"){xxx="choosing-ideal-building-company.html"}
+if(x=="17"){xxx="getting-high-quality-log-cabins-from.html"}a_to_ve[i].href="https://safe-shortlink.blogspot.com/2018/10/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
